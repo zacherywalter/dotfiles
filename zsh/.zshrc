@@ -127,6 +127,6 @@ unset __conda_setup
 # <<< conda initialize <<<
 
 
-export PATH=$PATH:~/scripts  # add scripts to path
+export PATH=$PATH:~/scripts/bin  # add scripts to path
 alias syn='synonym'
 alias def='define'
