@@ -50,7 +50,7 @@ alias v='vim'
 alias zshrc='v ~/.dotfiles/zsh/.zshrc'
 alias vimrc='v ~/.vimrc'
 alias howto='v ~/scripts/howto/README.md'
-alias search='grep -winr ~/howto/*.md -e'
+alias search='grep -winr ~/scripts/howto/*.md -e'
 alias cel='ssh cel -t "ruptime2"'
 
 alias md='ebook-viewer --detach --new-instance %f '  # from calibre
