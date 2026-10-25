@@ -49,7 +49,7 @@ alias ma='cd ~/Nextcloud/CEL_MA/ && cd '
 alias v='vim'
 alias zshrc='v ~/.dotfiles/zsh/.zshrc'
 alias vimrc='v ~/.vimrc'
-alias howto='v ~/howto/README.md'
+alias howto='v ~/scripts/howto/README.md'
 alias search='grep -winr ~/howto/*.md -e'
 alias cel='ssh cel -t "ruptime2"'
 
