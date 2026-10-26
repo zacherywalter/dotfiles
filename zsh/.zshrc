@@ -47,7 +47,7 @@ alias ucharging='upower -i /org/freedesktop/UPower/device/battery_BAT0'
 alias ma='cd ~/Nextcloud/CEL_MA/ && cd '
 
 alias v='vim'
-alias zshrc='v ~/.dotfiles/zsh/.zshrc'
+alias zshrc='v ~/dotfiles/zsh/.zshrc'
 alias vimrc='v ~/.vimrc'
 alias howto='v ~/scripts/howto/README.md'
 alias search='grep -winr ~/scripts/howto/*.md -e'
