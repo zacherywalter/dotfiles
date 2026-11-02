@@ -63,6 +63,8 @@ alias ...="cd ../.."
 
 # git lazy push
 alias lpush="git status && git add . && git commit -m \"same same\" && git push"
+alias module-lpush="lpush && cd .. && lpush && cd .."
+
 gitget() {
     if [ -z "$1" ]; then
         echo "Error: Please specify a repository name."
